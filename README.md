@@ -1,2 +1,2 @@
 # pranav
-This is my first reposiory
+This is my first Git Reposiory
