@@ -1,3 +1,3 @@
 # pranav
-This is my first Git Reposiory
+This is my first Git Reposiory,
 Author - Pranav
